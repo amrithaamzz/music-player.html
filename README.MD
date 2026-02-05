@@ -22,6 +22,8 @@ A simple static **music player UI** built using basic HTML and Font Awesome icon
 
 ---
 ## Preview
+[LIVE](https://amrithaamzz.github.io/music-player.html/)
+
 ![Preview](./image.png)
 
 ## 📂 Project Structure
